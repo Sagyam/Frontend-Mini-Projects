@@ -11,13 +11,15 @@ body{
   background-color: #333;
   color: #fff;
   border: 5px  red solid;
+  padding: 10px 10px 10px 10px;
+  border-radius: 15px;
 }
 
-box-2{
+.box-2{
   border: 3px dotted #ccc;
   padding: 20px
   margin:20px 0;
-
+  border-radius: 15px;
 }
 
 .container{
@@ -32,4 +34,11 @@ box-2{
   text-shadow: rgb(255, 255, 0);
   letter-spacing: 0.2em;
   word-spacing: 2en;
+}
+
+.categories{
+  border: 1px #ccc solid;
+  padding: 10px;
+  border-radius: 15px;
+
 }
