@@ -9,7 +9,7 @@ const app = Vue.createApp({
       this.cart.push(id);
     },
     removeFromCart() {
-      if (cart.length > 0) {
+      if (this.cart.length > 0) {
         this.cart.pop();
       }
     },
