@@ -1,2 +1,2 @@
 # frontend-tutorials
-All my fronted tutorals 
+All my fronted tutorials in one repo 
