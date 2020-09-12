@@ -6,6 +6,7 @@ Some of my interesting projects:
  
 ## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/) 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)
+
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
 
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
