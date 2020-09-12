@@ -5,8 +5,7 @@ All my projects are **modular** and **optimized** therefore it can used as a par
 Some of my interesting projects:  
  
 ## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/)
-![enter image description here](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/html5.png?raw=true)
-
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
 
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
