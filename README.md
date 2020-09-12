@@ -5,7 +5,7 @@ All my projects are **modular** and **optimized** therefore it can used as a par
 Some of my interesting projects:  
  
 ## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/) 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
 
@@ -20,7 +20,7 @@ Some of my interesting projects:
  ## [Shopping Cart System](https://sagyamthapa.me/Frontend-Mini-Projects/Vue-Shopping-Cart/)
  ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
  
- ## [Particle System
+ ## Particle System
  ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/particle.gif)
  
  ## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss)
