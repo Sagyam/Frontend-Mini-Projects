@@ -5,14 +5,16 @@ All my projects are **modular** and **optimized** therefore it can used as a par
 Some of my interesting projects:  
  
 ## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/) 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)  		![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5-24.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
 
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/bubble.gif)
 
 ## [Line through Effect](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Line%20through%20Effect/)
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
  ![enter image description here](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/line-through-effect.gif?raw=true)
  
  ## [Shopping Cart System](https://sagyamthapa.me/Frontend-Mini-Projects/Vue-Shopping-Cart/)
