@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: turquoise;
+  font-family: "Tangerine";
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 10vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.line1 {
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 50px;
+  position: absolute;
+  height: 0.51vw;
+  width: 0;
+  top: 45%;
+  left: -2vw;
+  transform: translateY(-50%);
+  z-index: 2;
+  animation: grow 3s linear forwards;
+}
+
+.line2 {
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 50px;
+  position: absolute;
+  height: 0.51vw;
+  width: 0;
+  top: 50%;
+  left: -2vw;
+  transform: translateY(-50%);
+  z-index: 2;
+  animation: grow 3s linear forwards;
+}
+
+.line3 {
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 50px;
+  position: absolute;
+  height: 0.51vw;
+  width: 0;
+  top: 55%;
+  left: -2vw;
+  transform: translateY(-50%);
+  z-index: 2;
+  animation: grow 3s linear forwards;
+}
+
+@keyframes grow {
+  to {
+    width: 102vw;
+  }
+}
+
+.overlay {
+  z-index: 2;
+}
