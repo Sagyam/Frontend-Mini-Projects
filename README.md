@@ -4,6 +4,11 @@ All my projects are **modular** and **optimized** therefore it can used as a par
 
 Some of my interesting projects:  
  
+## [Neon Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/Neon-Light-Buttons/) 
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
+
+![enter image description here](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/neon-buttons.gif?raw=true)
+
 ## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/) 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
 
