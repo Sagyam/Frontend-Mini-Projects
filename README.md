@@ -1,8 +1,8 @@
 # Fronted Mini Projects
-This is a collection of all my fronted related mini-projects. I have build these projects using **HTML, CSS, JavaScript**  and **VueJS.**  
-All my projects are **modular** and **optimized** therefore it can used as a part of larger project. 
 
-#
+This is a collection **modular** and **optimized** fronted related mini-projects. I have build these projects using **HTML, CSS, JavaScript**  and **VueJS.** 
+
+------
  
 ## [Neon Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/Neon-Light-Buttons/) 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
