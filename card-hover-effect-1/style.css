@@ -42,6 +42,9 @@ body {
 #riya {
   background: linear-gradient(135deg, #0e0e0e, #007395);
 }
+#divs {
+  background: linear-gradient(135deg, #0e0e0e, #ccbe00);
+}
 .card img {
   position: absolute;
   bottom: 0;
