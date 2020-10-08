@@ -15,35 +15,41 @@ body {
 }
 
 .container {
-  margin-top: 8%;
+  margin-top: 7%;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  width: 100%;
   flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
 }
 
 .card {
   position: relative;
   height: 350px;
   width: 600px;
-  margin: 20px;
+  margin: 10px;
   justify-content: flex-start;
   align-items: center;
   border-radius: 20px;
 }
 
 #cpt {
-  background: linear-gradient(135deg, #bf9f6a, #790000);
+  background: linear-gradient(135deg, #e69b56, #04385f);
 }
 #saurav {
-  background: linear-gradient(135deg, #000000, #af0000);
+  background: linear-gradient(135deg, #462b34, #be6f6e);
 }
 #riya {
-  background: linear-gradient(135deg, #0e0e0e, #007395);
+  background: linear-gradient(135deg, #25242b, #7e9cc3);
 }
 #divs {
-  background: linear-gradient(135deg, #0e0e0e, #ccbe00);
+  background: linear-gradient(135deg, #2c4453, #95b7a1);
+}
+#khati {
+  background: linear-gradient(135deg, #392b29, #987964);
+}
+#rohan {
+  background: linear-gradient(135deg, #6c6c6c, #2c2c2c);
 }
 .card img {
   position: absolute;
