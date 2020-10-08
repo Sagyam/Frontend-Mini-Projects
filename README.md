@@ -4,12 +4,12 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ------
  
-## [Neon Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/Neon-Light-Buttons/) 
+## [Neon Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neon-light-buttons/) 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
 
 ![enter image description here](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/neon-buttons.gif?raw=true)
 
-## [Card Tricks](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Card-Tricks/) 
+## [Card Hover Effect 1](https://sagyamthapa.me/Frontend-Mini-Projects/card-hover-effect-1/) 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)  		
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
@@ -19,12 +19,12 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/bubble.gif)
 
-## [Line through Effect](https://sagyamthapa.me/Frontend-Mini-Projects/CSS-Mini-Projects/Line%20through%20Effect/)
+## [Line through Effect](https://sagyamthapa.me/Frontend-Mini-Projects/line-through-effect/)
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
 
 ![enter image description here](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/line-through-effect.gif?raw=true)
  
- ## [Shopping Cart System](https://sagyamthapa.me/Frontend-Mini-Projects/Vue-Shopping-Cart/)
+ ## [Shopping Cart System](https://sagyamthapa.me/Frontend-Mini-Projects/vue-shopping-cart/)
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/tw.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue.png)
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
@@ -34,7 +34,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
  ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/particle.gif)
  
- ## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss)
+ ## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss-demo)
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/tw.png)
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/twcss.png)
