@@ -52,8 +52,8 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/particle.gif)
 
-## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss-demo)
+<!-- ## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss-demo)
 
 ![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/tw.png)
 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/twcss.png)
+![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/twcss.png) -->
