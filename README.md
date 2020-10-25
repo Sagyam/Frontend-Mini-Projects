@@ -22,7 +22,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![Card Hover Effect 2 GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-trick2.gif)
 
-## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/card-hover-effect-2/)
+## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
