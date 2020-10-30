@@ -6,12 +6,37 @@
   --label-text-color: #868686;
   --text-color-warning: #ff0047;
   --text-color-primary: #03a9f4;
+  --text-color-primary-active: #006c9c;
+  --paragraph-text-color: #555;
+
+  /*Outer-Shadow-Top-Left*/
+  --box-shadow-1: rgba(255, 255, 255, 0.05);
+  /*Outer-Shadow-Bottom-Right*/
+  --box-shadow-2: rgba(0, 0, 0, 0.3);
+
+  /*Inner-Shadow-Bottom-Left*/
+  --inset-box-shadow-2: rgba(0, 0, 0, 0.9);
+  /*Inner-Shadow-Bottom-Right*/
+  --inset-box-shadow-1: rgba(255, 255, 255, 0.3);
 }
 
-[data-theme="dark"] {
-  --background-color: #fff;
-  --h2-text-color: #c7c7c7;
-  --label-text-color: #868686;
+[data-theme="light"] {
+  --background-color: #e3e6ec;
+  --h2-text-color: #383838;
+  --label-text-color: #797979;
+  --text-color-warning: #ff0047;
+  --text-color-primary: #03a9f4;
+  --text-color-primary-active: #006c9c;
+  --paragraph-text-color: #aaa;
+
+  /*Outer-Shadow-Top-Left*/
+  --box-shadow-1: rgba(255, 255, 255, 0.5);
+  /*Outer-Shadow-Bottom-Right*/
+  --box-shadow-2: rgba(209, 217, 230, 1);
+  /*Inner Shadow Top Left*/
+  --inset-box-shadow-2: rgba(0, 0, 0, 0.5);
+  /*Inner Shadow Bottom Right*/
+  --inset-box-shadow-1: rgba(209, 217, 230, 1);
 }
 
 * {
@@ -38,8 +63,8 @@ body {
   background: var(--background-color);
   border-radius: 10px;
   text-align: center;
-  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
-    5px 5px 15px rgba(0, 0, 0, 0.5);
+  box-shadow: -14px -14px 15px var(--box-shadow-1),
+    14px 14px 15px var(--box-shadow-2);
 }
 
 .form h2 {
@@ -63,6 +88,7 @@ body {
   color: var(--label-text-color);
   border-bottom: 5px;
   font-size: 18px;
+  margin: 10px;
 }
 
 .form .input .input-box input {
@@ -75,25 +101,24 @@ body {
   padding: 5px 15px;
   color: var(--text-color-primary);
   font-size: 18px;
-  box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
-    inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+  box-shadow: inset -2px -2px 6px var(--inset-box-shadow-1),
+    inset 2px 2px 6px var(--inset-box-shadow-2);
 }
 
 .form .input .input-box input[type="submit"] {
   margin-top: 20px;
-  box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.1),
-    2px 2px 6px rgba(0, 0, 0, 0.8);
+  box-shadow: -5px -5px 10px var(--box-shadow-1),
+    5px 5px 10px var(--box-shadow-2);
 }
-
 .form .input .input-box input[type="submit"]:active {
-  color: #006c9c;
-  margin: 20px;
-  box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
-    inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+  margin-top: 20px;
+  color: var(--text-color-primary-active);
+  box-shadow: inset -5px -5px 10px var(--box-shadow-1),
+    inset 5px 5px 10px var(--box-shadow-2);
 }
 
 .form .input .input-box input[type="submit"]::placeholder {
-  color: #555;
+  color: var(--paragraph-text-color);
   font-size: 18px;
 }
 
