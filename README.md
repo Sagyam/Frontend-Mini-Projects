@@ -28,6 +28,18 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
+## [Neuromorphic Login Page](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
+
+![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+
+![Neuromorphic Login Page GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-login-page.gif)
+
+## [Neuromorphic Glowing Icons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-glowing-icons/index.html#)
+
+![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+
+![Neuromorphic Glowing Icons GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-glowing-icons.gif)
+
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
