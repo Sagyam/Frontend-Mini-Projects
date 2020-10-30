@@ -28,7 +28,13 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
-## [Neuromorphic Login Page](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
+## Responsive Neumorphic Cards](https://sagyamthapa.me/Frontend-Mini-Projects/responsive-neumorphic-cards)
+
+![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+
+![Responsive Neumorphic Cards](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/responsive-neumorphic-cards.gif)
+
+## [Neuromorphic Login Page GIF](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
