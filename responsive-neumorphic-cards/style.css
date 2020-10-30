@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+:root {
+  --background-color: #ebf5fc;
+  --heading-color: #32a3b1;
+
+  --box-shadow-1: rgba(255, 255, 255, 1);
+  --box-shadow-2: rgba(0, 0, 0, 0.1);
+
+  --inset-box-shadow-1: rgba(255, 255, 255, 0.5);
+  --inset-box-shadow-2: rgba(0, 0, 0, 0.05);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", "sans-serif";
+  background: var(--background-color);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1100px;
+}
+
+.container .card {
+  width: 320px;
+  margin: 20px;
+  padding: 40px 30px;
+  border-radius: 40px;
+  background-color: var(--background-color);
+  box-shadow: -6px -6px 20px var(--box-shadow-1),
+    6px 6px 20px var(--box-shadow-2);
+}
+
+.container .card:hover {
+  box-shadow: inset -6px -6px 10px var(--inset-box-shadow-1),
+    inset 6px 6px 20px var(--inset-box-shadow-2);
+}
+
+.container .card .imgBox {
+  position: relative;
+  text-align: center;
+}
+
+.container .card .imgBox img {
+  max-width: 120px;
+}
+
+.container .card .contentBox {
+  position: relative;
+  margin: 20px;
+  text-align: center;
+}
+
+.container .card .contentBox h2 {
+  color: var(--heading-color);
+  font-weight: 700;
+  font-size: 1.4em;
+  letter-spacing: 2px;
+}
+
+.container .card .contentBox p {
+  color: var(--heading-color);
+}
+
+.container .card .contentBox a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 15px;
+  border-radius: 40px;
+  color: var(--heading-color);
+  font-size: 16px;
+  text-decoration: none;
+  box-shadow: -8px -8px 15px var(--box-shadow-1),
+    8px 8px 15px var(--box-shadow-2);
+}
+
+.container .card .contentBox a:hover {
+  box-shadow: inset -8px -8px 10px var(--box-shadow-1),
+    inset 8px 8px 10px var(--box-shadow-2);
+}
+
+.container .card a:hover span {
+  display: block;
+  transform: scale(0.98);
+}
+
+.container .card:hover .imgBox,
+.container .card:hover .contentBox {
+  transform: scale(0.98);
+}
