@@ -2,13 +2,28 @@
 
 :root {
   --background-color: #ebf5fc;
-  --heading-color: #32a3b1;
+  --text-color: #32a3b1;
 
   --box-shadow-1: rgba(255, 255, 255, 1);
   --box-shadow-2: rgba(0, 0, 0, 0.1);
 
   --inset-box-shadow-1: rgba(255, 255, 255, 0.5);
-  --inset-box-shadow-2: rgba(0, 0, 0, 0.05);
+  --inset-box-shadow-2: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --background-color: #131419;
+  --text-color: #32a3b1;
+
+  /*Outer-Shadow-Top-Left*/
+  --box-shadow-1: rgba(255, 255, 255, 0.1);
+  /*Outer-Shadow-Bottom-Right*/
+  --box-shadow-2: rgba(0, 0, 0, 0.5);
+
+  /*Inner-Shadow-Bottom-Left*/
+  --inset-box-shadow-2: rgba(0, 0, 0, 0.9);
+  /*Inner-Shadow-Bottom-Right*/
+  --inset-box-shadow-1: rgba(255, 255, 255, 0.2);
 }
 
 * {
@@ -21,6 +36,7 @@
 
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
@@ -32,7 +48,7 @@ body {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  width: 1100px;
+  width: auto;
 }
 
 .container .card {
@@ -66,14 +82,14 @@ body {
 }
 
 .container .card .contentBox h2 {
-  color: var(--heading-color);
+  color: var(--text-color);
   font-weight: 700;
   font-size: 1.4em;
   letter-spacing: 2px;
 }
 
 .container .card .contentBox p {
-  color: var(--heading-color);
+  color: var(--text-color);
 }
 
 .container .card .contentBox a {
@@ -81,7 +97,7 @@ body {
   padding: 10px 20px;
   margin-top: 15px;
   border-radius: 40px;
-  color: var(--heading-color);
+  color: var(--text-color);
   font-size: 16px;
   text-decoration: none;
   box-shadow: -8px -8px 15px var(--box-shadow-1),
