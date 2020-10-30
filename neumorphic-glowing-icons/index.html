@@ -15,9 +15,23 @@
       type="image/x-icon"
     />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./themeSwitch.css" />
     <title>Glowing Neumorphism Icon Hover Effects</title>
   </head>
   <body>
+    <!-- Theme Switch -->
+    <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+        <em>Change Theme</em>
+      </div>
+    </nav>
+    <script src="./script.js"></script>
+
+    <!-- Red Icons   -->
     <div class="container" id="red">
       <ul>
         <li>
@@ -37,7 +51,7 @@
         </li>
       </ul>
     </div>
-
+    <!-- Green Icons   -->
     <div class="container" id="green">
       <ul>
         <li>
@@ -57,7 +71,7 @@
         </li>
       </ul>
     </div>
-
+    <!-- Blue Icons   -->
     <div class="container" id="blue">
       <ul>
         <li>
