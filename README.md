@@ -40,11 +40,11 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ![Neuromorphic Login Page GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-login-page.gif)
 
-## [Responsive Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/responsive-neumorphic-cards)
+## [Neumorphic Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-buttons)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
-![Neuromorphic Login Page GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-checkbox-buttons.gif)
+![Neuromorphic Checkbox Buttons](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-checkbox-buttons.gif)
 
 ## [[Responsive Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-buttons)
 
