@@ -35,11 +35,12 @@ body {
   position: relative;
   display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
+  max-width: 300px;
   justify-content: center;
   align-items: center;
   border-radius: var(--main-container-border-radius);
   padding: 20px;
-  width: 240px;
   background-color: var(--background-color);
   box-shadow: -2px -2px 5px var(--box-sahdow-1), 3px 3px 5px var(--box-sahdow-2);
 }
