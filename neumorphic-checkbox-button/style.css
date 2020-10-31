@@ -1,0 +1,89 @@
+:root {
+  --background-color: #ebf5fc;
+  --main-container-border-radius: 15px;
+  --icon-container-border-radius: 15px;
+  --icon-contaner-size: 60px;
+  --icon-size: 30px;
+  --icon-color: #6a9bd8;
+  --box-sahdow-1: rgba(255, 255, 255, 1);
+  --box-sahdow-2: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --background-color: #131419;
+  --icon-color: #31a3b1;
+  --box-sahdow-1: rgba(255, 255, 255, 0.1);
+  --box-sahdow-2: rgba(0, 0, 0, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--background-color);
+}
+
+.container ul {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-radius: var(--main-container-border-radius);
+  padding: 20px;
+  width: 240px;
+  background-color: var(--background-color);
+  box-shadow: -2px -2px 5px var(--box-sahdow-1), 3px 3px 5px var(--box-sahdow-2);
+}
+
+.container ul li {
+  position: relative;
+  list-style: none;
+  text-align: center;
+  margin: 15px;
+}
+
+.container ul li label {
+  position: relative;
+}
+
+.container ul li label input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.container ul li label .icon-box {
+  width: var(--icon-contaner-size);
+  height: var(--icon-contaner-size);
+  border-radius: var(--icon-container-border-radius);
+  background: var(--background-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -2px -2px 5px var(--box-sahdow-1), 3px 3px 5px var(--box-sahdow-2);
+}
+
+.container ul li label .icon-box .fa,
+.fas {
+  font-size: var(--icon-size);
+  color: var(--icon-color);
+}
+
+.container ul li label input[type="checkbox"]:checked ~ .icon-box {
+  box-shadow: inset -2px -2px 5px var(--box-sahdow-1),
+    inset 3px 3px 5px var(--box-sahdow-2);
+}
+
+.container ul li label input[type="checkbox"]:checked ~ .icon-box .fa,
+.fas {
+  transform: scale(0.95);
+}
