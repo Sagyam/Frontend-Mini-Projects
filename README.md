@@ -36,7 +36,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ---
 
-## [Responsive Neumorphic Cards](https://sagyamthapa.me/Frontend-Mini-Projects/responsive-neumorphic-cards)
+## [Neumorphic Responsive Cards](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-responsive-cards)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
@@ -44,7 +44,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ---
 
-## [Neuromorphic Login Page GIF](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
+## [Neuromorphic Login Form GIF](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
@@ -52,7 +52,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ---
 
-## [Neumorphic Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-buttons)
+## [Neumorphic Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-button)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
@@ -60,7 +60,7 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ---
 
-## [[Responsive Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-buttons)
+## [Neumorphic Glowing Icons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-glowing-icons)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
 
