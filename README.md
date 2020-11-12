@@ -28,19 +28,19 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ---
 
+## [Product Card](https://sagyamthapa.me/Frontend-Mini-Projects/product-card)
+
+![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+
+![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/product-card.gif)
+
+---
+
 ## [Animated Responsive Navbar](https://sagyamthapa.me/Frontend-Mini-Projects/animated-responsive-navbar)
 
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
 
 ![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/animated-responsive-navbar.gif)
-
----
-
-## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
-
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
-
-![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
 ---
 
@@ -81,6 +81,14 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 ![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
 
 ![Animated Landing Page Gif](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/bubble.gif)
+
+---
+
+## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
+
+![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+
+![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
 ---
 
