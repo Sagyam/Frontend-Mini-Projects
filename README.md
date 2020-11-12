@@ -17,7 +17,10 @@ width=36>
 
 ## [Card Hover Effect 1](https://sagyamthapa.me/Frontend-Mini-Projects/card-hover-effect-1/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Card Hover Effect 1 Gof](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-tricks.gif)
 
@@ -25,7 +28,10 @@ width=36>
 
 ## [Card Hover Effect 2](https://sagyamthapa.me/Frontend-Mini-Projects/card-hover-effect-2/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Card Hover Effect 2 GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/card-trick2.gif)
 
@@ -33,7 +39,10 @@ width=36>
 
 ## [Product Card](https://sagyamthapa.me/Frontend-Mini-Projects/product-card)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/product-card.gif)
 
@@ -41,7 +50,10 @@ width=36>
 
 ## [Animated Responsive Navbar](https://sagyamthapa.me/Frontend-Mini-Projects/animated-responsive-navbar)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/animated-responsive-navbar.gif)
 
@@ -49,7 +61,12 @@ width=36>
 
 ## [Neumorphic Responsive Cards](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-responsive-cards)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
 ![Responsive Neumorphic Cards](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/responsive-neumorphic-cards.gif)
 
@@ -57,7 +74,12 @@ width=36>
 
 ## [Neuromorphic Login Form GIF](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-login-form/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
 ![Neuromorphic Login Page GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-login-page.gif)
 
@@ -65,7 +87,12 @@ width=36>
 
 ## [Neumorphic Checkbox Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-checkbox-button)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
 ![Neuromorphic Checkbox Buttons](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-checkbox-buttons.gif)
 
@@ -73,7 +100,12 @@ width=36>
 
 ## [Neumorphic Glowing Icons](https://sagyamthapa.me/Frontend-Mini-Projects/neumorphic-glowing-icons)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
 ![Neuromorphic Glowing Icons GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-glowing-icons.gif)
 
@@ -81,7 +113,10 @@ width=36>
 
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Animated Landing Page Gif](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/bubble.gif)
 
@@ -89,7 +124,12 @@ width=36>
 
 ## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![js-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
 ![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
@@ -97,7 +137,10 @@ width=36>
 
 ## [Line through Effect](https://sagyamthapa.me/Frontend-Mini-Projects/line-through-effect/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Line through Effect Gif](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/line-through-effect.gif?raw=true)
 
@@ -105,20 +148,27 @@ width=36>
 
 ## [Shopping Cart System](https://sagyamthapa.me/Frontend-Mini-Projects/vue-shopping-cart/)
 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/tw.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg' 
+width=36>
 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
+
+![Shopping Cart System](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
 
 ---
 
 ## [Particle System](https://sagyamthapa.me/Frontend-Mini-Projects/particle-system/)
 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/js.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=36>
 
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/particle.gif)
-
-<!-- ## [TailwindCSS](https://sagyamthapa.me/Frontend-Mini-Projects/tailwindcss-demo)
-
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/tw.png)
-
-![enter image description here](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/twcss.png) -->
+![Particle Effect](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/particle.gif)
