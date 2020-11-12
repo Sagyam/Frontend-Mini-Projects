@@ -226,3 +226,9 @@ body {
   transform: translateY(0px);
   transition-delay: 0.75s;
 }
+
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+}
