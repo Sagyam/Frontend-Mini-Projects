@@ -66,7 +66,7 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 
 ![Responsive Neumorphic Cards](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/responsive-neumorphic-cards.gif)
 
@@ -79,7 +79,7 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 
 ![Neuromorphic Login Page GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-login-page.gif)
 
@@ -92,7 +92,7 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 
 ![Neuromorphic Checkbox Buttons](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-checkbox-buttons.gif)
 
@@ -105,7 +105,7 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 
 ![Neuromorphic Glowing Icons GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/neumorphic-glowing-icons.gif)
 
@@ -129,7 +129,7 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 
 ![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
@@ -153,9 +153,9 @@ width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
 width=36>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=36>
+width=40>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg' 
-width=36>
+width=40>
 
 
 ![Shopping Cart System](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
