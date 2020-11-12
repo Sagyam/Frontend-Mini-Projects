@@ -1,10 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
 
-:root {
+:root #nike-lime {
   --background-color: #131313;
   --card-bg-color: #232323;
   --card-primary-color: #9bdc28;
   --brand-name: "Nike";
+}
+
+:root #jordan-yellow {
+  --background-color: #131313;
+  --card-bg-color: #232323;
+  --card-primary-color: #e5c810;
+  --brand-name: "Jordan";
+}
+
+:root #puma-orange {
+  --background-color: #131313;
+  --card-bg-color: #232323;
+  --card-primary-color: #ff8d00;
+  --brand-name: "Puma";
 }
 
 * {
@@ -18,7 +32,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: var(--background-color);
+  background: #131313;
 }
 
 .container {
@@ -56,9 +70,9 @@ body {
 .container .card::after {
   content: var(--brand-name);
   position: absolute;
-  top: 30%;
-  left: -10%;
-  font-size: 12em;
+  top: 50%;
+  left: auto;
+  font-size: 8rem;
   font-weight: 900;
   font-style: italic;
   color: rgba(255, 255, 255, 0.05);
@@ -182,10 +196,10 @@ body {
   background: #9bdc28;
 }
 .container .card .content-box .color span:nth-child(3) {
-  background: #04a9f4;
+  background: #e5c810;
 }
 .container .card .content-box .color span:nth-child(4) {
-  background: #e91e63;
+  background: #ff8d00;
 }
 
 .container .card .content-box .button a {
@@ -203,7 +217,7 @@ body {
 }
 
 .container .card .content-box .button:hover {
-  transform: scale(1.1);
+  transform: scale(1.15);
   transition: 0.5s;
 }
 
