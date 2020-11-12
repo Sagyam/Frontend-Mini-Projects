@@ -6,7 +6,10 @@ This is a collection **modular** and **optimized** fronted related mini-projects
 
 ## [Neon Buttons](https://sagyamthapa.me/Frontend-Mini-Projects/neon-light-buttons/)
 
-![html-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/html5.png)![css-logo](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/css3.png)
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
 
 ![Neon Buttons Gif](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/assets/neon-buttons.gif?raw=true)
 
