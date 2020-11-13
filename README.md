@@ -37,7 +37,7 @@ width=36>
 
 ---
 
-## [Product Card](https://sagyamthapa.me/Frontend-Mini-Projects/product-card)
+## [Product Card 2](https://sagyamthapa.me/Frontend-Mini-Projects/product-card)
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
 width=48>
