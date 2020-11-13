@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="shortcut icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Responsive Product Card</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <div class="product-background">
+          <div class="gradients">
+            <div class="gradient" color="blue"></div>
+            <div class="gradient second" color="red"></div>
+            <div class="gradient" color="green"></div>
+            <div class="gradient" color="orange"></div>
+            <div class="gradient" color="black"></div>
+          </div>
+          <h1 class="brand-name">Nike</h1>
+
+          <img src="./img/logo.png" alt="Nike" class="logo" />
+
+          <a href="#" class="share"><i class="fas fa-share-alt"></i></a>
+
+          <img src="./img/blue.png" class="product" color="blue" />
+          <img src="./img/red.png" class="product show" color="red" />
+          <img src="./img/green.png" class="product" color="green" />
+          <img src="./img/orange.png" class="product" color="orange" />
+          <img src="./img/black.png" class="product" color="black" />
+        </div>
+
+        <div class="info">
+          <div class="product-name">
+            <div>
+              <h1 class="big">Nike Zoom K 12</h1>
+              <span class="new">new</span>
+            </div>
+            <h3 class="small">Men's running shoes</h3>
+          </div>
+          <div class="description">
+            <h3 class="title">Product Info</h3>
+            <p class="text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              nulla recusandae laboriosam deleniti rerum exercitationem ullam in
+              molestiae deserunt? Sapiente?
+            </p>
+          </div>
+          <div class="color-container">
+            <h3 class="title">Color</h3>
+            <div class="colors">
+              <span class="color" color="blue" primary="#2175f5"></span>
+              <span class="color active" color="red" primary="#f84848"></span>
+              <span class="color" color="green" primary="#29b864"></span>
+              <span class="color" color="orange" primary="#ff5521"></span>
+              <span class="color" color="black" primary="#444"></span>
+            </div>
+          </div>
+          <div class="size-container">
+            <h3 class="title">Sizes</h3>
+            <div class="sizes noselect">
+              <span class="size">6</span>
+              <span class="size active">7</span>
+              <span class="size">9</span>
+              <span class="size">9</span>
+              <span class="size">10</span>
+            </div>
+          </div>
+          <div class="buy-price">
+            <a href="#" class="buy"
+              ><i class="fas fa-shopping-cart"></i>Add to cart</a
+            >
+            <div class="price">
+              <i class="fas fa-dollar-sign"></i>
+              <h1>420.69</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./script.js"></script>
+</html>
