@@ -111,6 +111,19 @@ width=40>
 
 ---
 
+## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=40>
+
+## ![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
+
+---
+
 ## [Animated Landing Page](https://sagyamthapa.me/Frontend-Mini-Projects/animated-landing-page/)
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
@@ -121,17 +134,6 @@ width=36>
 ![Animated Landing Page Gif](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/bubble.gif)
 
 ---
-
-## [Neuromorphic Clock](https://sagyamthapa.me/Frontend-Mini-Projects/neuromorphic-clock/)
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
-width=48>
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
-width=36>
-<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
-width=40>
-
-![Neuromorphic Clock GIF](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/clock.gif)
 
 ---
 
@@ -156,7 +158,6 @@ width=36>
 width=40>
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg' 
 width=40>
-
 
 ![Shopping Cart System](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/vue-shopping-cart.png)
 
