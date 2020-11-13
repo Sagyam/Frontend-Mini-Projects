@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  top: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+    /*Note: Uncomment the lines in container for gradient effect*/
+  --grad-start-color: #8500ff;
+  --grad-end-color: #5acaff;
+  --grad-rotation: 45deg;
+  --background-color: #151729;
+  --font-color: #fff;
+  --button-color: #ff0562;
+  --button-shadow-color: #d00d56;
+}
+
+body {
+  background: linear-gradient(
+    var(--grad-rotation),
+    var(--grad-start-color),
+    var(--grad-end-color)
+  );
+  height: 100vh;
+}
+
+#container {
+  position: absolute;
+  /**Centre Only*/
+  /* top: 10%;
+  bottom: 10%;
+  left: 10%;
+  right: 10%;
+  border-radius: 10px; */
+
+/*Fullscreen */
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(./img/p404.png), var(--background-color);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+}
+
+#container .content {
+  max-width: 600px;
+  text-align: center;
+}
+
+#container .content h2 {
+  font-size: 18vh;
+  color: var(--font-color);
+  line-height: 1em;
+}
+
+#container .content h4 {
+  position: relative;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  color: #111;
+  background: var(--font-color);
+  font-weight: 300;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+#container .content p {
+  color: var(--font-color);
+  font-size: 1.2em;
+}
+
+#container .content a {
+  position: relative;
+  display: inline-block;
+  padding: 10px 25px;
+  background: var(--button-color);
+  color: var(--font-color);
+  text-decoration: none;
+  margin-top: 25px;
+  border-radius: 25px;
+  border-bottom: 4px solid var(--button-shadow-color);
+}
