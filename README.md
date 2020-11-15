@@ -47,6 +47,18 @@ width=36>
 ![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/product-card.gif)
 
 ---
+## [Product Card 2](https://sagyamthapa.me/Frontend-Mini-Projects/product-card-2)
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
+width=48>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
+width=36>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' 
+width=40>
+
+![Animated Responsive Navbar](https://raw.githubusercontent.com/Sagyam/Frontend-Mini-Projects/master/assets/product-card-2.gif)
+
+---
 
 ## [Animated Responsive Navbar](https://sagyamthapa.me/Frontend-Mini-Projects/animated-responsive-navbar)
 
