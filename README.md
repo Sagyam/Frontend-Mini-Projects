@@ -1,10 +1,10 @@
 # Fronted Mini Projects
 [![GitHub license](https://img.shields.io/github/license/Sagyam/Frontend-Mini-Projects?style=for-the-badge)](https://github.com/Sagyam/Frontend-Mini-Projects/blob/master/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sagyam/Frontend-Mini-Projects?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/Sagyam/Frontend-Mini-Projects?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/Github/Sagyam/Frontend-Mini-Projects?style=for-the-badge)
 [![GitHub stars](https://img.shields.io/github/stars/Sagyam/Frontend-Mini-Projects?style=for-the-badge)](https://github.com/Sagyam/Frontend-Mini-Projects/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Sagyam/Frontend-Mini-Projects?style=for-the-badge)](https://github.com/Sagyam/Frontend-Mini-Projects/network)
+![GitHub search hit counter](https://img.shields.io/github/search/Sagyam/Frontend-Mini-Projects/projects?style=for-the-badge)
 
 This is a collection **modular** and **optimized** fronted related mini-projects. I have build these projects using **HTML, CSS, JavaScript** and **VueJS.**
 
